@@ -1,0 +1,24 @@
+tasks of labs
+
+1. Create your own web-site (you can use web-site constructor https://www.websitetooltester.com/en/blog/best-free-website-builders/)
+
+21 Free Website Builders: Our Favorites. Here’s our list of the best free website builders:
+1. Webnode – Modern Editor with Some Limitations
+2. Wix – The International Heavyweight
+3. Weebly – A Great Website Builder with One Downside
+4. Ucraft – Connect Your Domain for Free
+5. Webstarts – Best Free Option?
+6. Jimdo – Website Editing (also) via App
+7. Site123 – Easy as 1-2-3?
+8. Mozello – Free Multilingual Websites
+9. Strikingly – Free One-Page Layouts
+10. One.com – Not Free, but a Cheap Website Builder
+
+2. Your website must be hosted, have authentication for users and admin.
+
+3. Your website must have pay system (paypal or liqpay or... )
+
+4. Pentest your website (you can use https://www.pentestco.com/ or https://www.defensecode.com/thunderscan-sast/?gclid=EAIaIQobChMIj5bI5KPX6wIVESwYCh2aeAAPEAAYAiAAEgJxUfD_BwE 
+or https://wpsec.com/plans.php?gclid=EAIaIQobChMIu4jj_aLX6wIVFNGyCh3HoAimEAMYASAAEgJJFvD_BwE or https://www.root-me.org/?lang=en  or
+
+
